@@ -1,0 +1,12 @@
+.karkas__container {
+    z-index: 1;
+    position: relative;
+    display: flex;
+    gap: 30px;
+}
+
+@media screen and (max-width: 768px) {
+    .karkas__container {
+        flex-direction: column;
+    }
+}

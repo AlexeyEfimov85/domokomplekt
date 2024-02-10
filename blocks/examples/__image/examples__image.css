@@ -1,0 +1,12 @@
+.examples__image {
+    width: 273px;
+}
+
+@media screen and (max-width: 768px) {
+    .examples__image {
+        width: 336px;
+    }
+}
+
+
+

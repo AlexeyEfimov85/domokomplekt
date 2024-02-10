@@ -1,0 +1,11 @@
+@media screen and (max-width: 1190px) {
+    .metropolis__image {
+        width: 326px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .metropolis__image {
+        margin-bottom: 48px;
+    }
+}

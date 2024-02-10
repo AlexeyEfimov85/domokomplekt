@@ -1,0 +1,6 @@
+@media screen and (max-width: 768px) {
+    .domokomplekt__cards-column {
+        display: flex;
+        flex-direction: column;
+    }
+}

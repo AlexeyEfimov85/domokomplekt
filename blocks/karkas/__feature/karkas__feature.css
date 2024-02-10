@@ -1,0 +1,12 @@
+.karkas__feature {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 176px;
+}
+
+@media screen and (max-width: 768px) {
+    .karkas__feature {
+        flex-direction: row;
+    }
+}

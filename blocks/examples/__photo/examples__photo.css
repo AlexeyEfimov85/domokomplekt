@@ -1,0 +1,16 @@
+.examples__photo {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    max-width: 1179px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1190px) {
+    .examples__photo {
+        max-width: 100vw;
+        margin-left: 39px;
+    }
+}
+
+

@@ -1,0 +1,10 @@
+.domokomplekt__content {
+    display: flex;
+    gap: 24px;
+}
+
+@media screen and (max-width: 1190px) {
+    .domokomplekt__content {
+        flex-direction: column;
+    }
+}

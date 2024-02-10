@@ -1,0 +1,11 @@
+@media screen and (max-width: 1190px) {
+    .domokomplekt__cards-column-left {
+        width: 189.5px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .domokomplekt__cards-column-left {
+        width: 122px;
+    }
+}

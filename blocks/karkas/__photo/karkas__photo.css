@@ -1,0 +1,19 @@
+.karkas__photo {
+    position: absolute;
+    bottom: -80px;
+}
+
+@media screen and (max-width: 1190px) {
+    .karkas__photo {
+        bottom: -480px;
+        left: 0;
+        width: 688px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .karkas__photo {
+        width: 344px;
+        bottom: -100px;
+    }
+}

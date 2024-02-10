@@ -1,0 +1,5 @@
+@media screen and (max-width: 768px) {
+    .metropolis {
+        max-width: 100vw;
+    }
+}

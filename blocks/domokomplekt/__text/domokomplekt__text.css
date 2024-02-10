@@ -1,0 +1,20 @@
+.domokomplekt__text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+    color: #353f47;
+    padding-left: 20px;
+    position: relative;
+}
+
+.domokomplekt__text::before {
+    content: "";
+    background-image: url('../../../images/domokomplekt/decor_arrow.svg');
+    width: 9px;
+    height: 12px;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 4px;
+}

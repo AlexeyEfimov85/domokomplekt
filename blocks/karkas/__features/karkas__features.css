@@ -1,0 +1,19 @@
+.karkas__features {
+    display: flex;
+    margin: 167px 0 0 0;
+    gap: 36px;
+}
+
+@media screen and (max-width: 1190px) {
+    .karkas__features {
+        flex-direction: column;
+        margin: 42px 0 0 35px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .karkas__features {
+        margin: 24px 0 198px 0;
+        align-items: center;
+    }
+}

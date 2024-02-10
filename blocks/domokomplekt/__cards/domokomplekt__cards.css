@@ -1,0 +1,22 @@
+.domokomplekt__cards {
+    display: flex;
+    gap: 4px;
+    max-width: 80%;
+}
+
+@media screen and (max-width: 1190px) {
+    .domokomplekt__cards {
+        margin-left: 100px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .domokomplekt__cards {
+        display: grid;
+        grid-template-columns: 182px 156px;
+        justify-items: center;
+        margin-left: 0px;
+        max-width: 100%;
+        justify-content: center;
+    }
+}

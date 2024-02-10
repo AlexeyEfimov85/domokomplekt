@@ -1,0 +1,14 @@
+.karkas__lens {
+    height: 100%;
+}
+
+.karkas__lens::before {
+    content: " ";
+    opacity: 0.84;
+    background-color: #150800fc;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}

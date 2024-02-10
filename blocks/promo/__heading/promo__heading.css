@@ -1,0 +1,19 @@
+.promo__heading {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin: 122px auto 56px;
+}
+
+
+@media screen and (max-width: 1190px) {
+    .promo__heading {
+        margin: 32px auto 56px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .promo__heading {
+        margin: 40px auto;
+    }
+}

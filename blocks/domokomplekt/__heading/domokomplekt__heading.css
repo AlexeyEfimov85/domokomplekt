@@ -1,0 +1,35 @@
+.domokomplekt__heading {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 34px;
+}
+
+.domokomplekt__heading::before {
+    content: "";
+    background-image: url(../../../images/domokomplekt/decor.png);
+    width: 61px;
+    height: 61px;
+    display: block;
+    position: absolute;
+    top: -1px;
+    left: -15px;
+}
+
+@media screen and (max-width: 768px) {
+    .domokomplekt__heading {
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 31px;
+    }
+    
+    .domokomplekt__heading::before {
+        content: "";
+        background-image: url(../../../images/domokomplekt/decor_mobile.svg);
+        width: 50px;
+        height: 50px;
+        display: block;
+        position: absolute;
+        top: 0px;
+        left: -15px;
+    }
+}

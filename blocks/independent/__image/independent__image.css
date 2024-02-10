@@ -1,0 +1,15 @@
+@media screen and (max-width: 1190px) {
+    .independent__image {
+        width: 553px;
+        top: 0;
+        left: -300px;
+        position: absolute;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .independent__image {
+        width: 346px;
+        position: static;
+    }
+}
