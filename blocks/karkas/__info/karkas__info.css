@@ -15,7 +15,7 @@
 
 @media screen and (max-width: 768px) {
     .karkas__info {
-        width: 65%;
+        width: 100%;
         margin: 42px auto 0px;
     }
 }

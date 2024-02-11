@@ -1,8 +1,22 @@
 .examples__heading-text {
     font-size: 28px;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 34px;
     color: #353F47;
     margin: 0 20px;
     text-align: center;
+}
+
+@media screen and (max-width: 1190px) {
+    .examples__heading-text {
+        font-size: 24px;
+        line-height: 31px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .examples__heading-text {
+        font-size: 20px;
+        line-height: 26px;
+    }
 }
