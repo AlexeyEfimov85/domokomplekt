@@ -2,6 +2,7 @@
     position: absolute;
     bottom: -80px;
     width: 676px;
+    border-radius: 4px;
 }
 
 @media screen and (max-width: 1190px) {
