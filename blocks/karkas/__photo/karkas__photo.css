@@ -1,6 +1,7 @@
 .karkas__photo {
     position: absolute;
     bottom: -80px;
+    width: 676px;
 }
 
 @media screen and (max-width: 1190px) {
