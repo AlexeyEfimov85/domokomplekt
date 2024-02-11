@@ -1,0 +1,10 @@
+.karkas__text_feature {
+    width: 65px;
+    display: inline-block;
+}
+
+@media screen and (max-width: 768px) {
+    .karkas__text_feature {
+        width: 205px;
+    }
+}

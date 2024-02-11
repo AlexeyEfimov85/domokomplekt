@@ -8,5 +8,6 @@
 @media screen and (max-width: 768px) {
     .karkas__feature {
         flex-direction: row;
+        width: 250px;
     }
 }

@@ -50,6 +50,8 @@
 @import url("../blocks/karkas/__features/karkas__features.css");
 @import url("../blocks/karkas/__feature/karkas__feature.css");
 @import url("../blocks/karkas/__feature-icon/karkas__feature-icon.css");
+@import url("../blocks/karkas/__text/_feature/karkas__text_feature.css");
+@import url("../blocks/karkas/__text/_feature-long/karkas__text_feature-long.css");
 @import url("../blocks/independent/__heading/independent__heading.css");
 @import url("../blocks/independent/__wrapper/independent__wrapper.css");
 @import url("../blocks/independent/__image/independent__image.css");
