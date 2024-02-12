@@ -14,9 +14,6 @@
 
 @media screen and (max-width: 768px) {
     .domokomplekt__cards {
-        display: grid;
-        grid-template-columns: 182px 156px;
-        justify-items: center;
         margin-left: 0px;
         max-width: 100%;
         justify-content: center;

@@ -1,5 +1,11 @@
 .karkas__text_feature-long {
     width: 205px;
     display: inline-block;
+    margin-top: 20px;
 }
 
+@media screen and (max-width: 768px) {
+    .karkas__text_feature-long {
+        margin-top: 0px;
+    }
+}

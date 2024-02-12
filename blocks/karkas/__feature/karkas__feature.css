@@ -9,5 +9,6 @@
     .karkas__feature {
         flex-direction: row;
         width: 250px;
+        align-items: center;
     }
 }
