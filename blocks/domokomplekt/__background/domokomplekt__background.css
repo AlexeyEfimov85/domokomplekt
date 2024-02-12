@@ -6,6 +6,12 @@
     width: 47%;
 }
 
+@media screen and (max-width: 1190px) {
+    .domokomplekt__background {
+        width: 80%;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .domokomplekt__background {
         width: 100%;
